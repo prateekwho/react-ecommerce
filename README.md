@@ -1,6 +1,6 @@
 # E-commerce Project
 
-This is an e-commerce website built with [insert technology stack here].
+This is an e-commerce website built with React and Tailwind Css.
 
 ## Installation
 
